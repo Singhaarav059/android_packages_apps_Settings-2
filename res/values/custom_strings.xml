@@ -20,4 +20,7 @@
     <string name="volume_key_category_title">Volume Shortcut</string>
     <string name="connected_devices_category_title">Connected Devices</string>
 
+    <!-- Battery -->
+    <string name="battery_temperature">Temperature</string>
+
 </resources>
