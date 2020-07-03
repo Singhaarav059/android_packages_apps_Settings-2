@@ -15,4 +15,9 @@
     <string name="custom_settings_title">#HarPalStylish</string>
     <string name="custom_settings_summary">Style badalte raho</string>
 
+    <!-- lottie-animation -->
+    <string name="apps_category">Apps</string>
+    <string name="volume_key_category_title">Volume Shortcut</string>
+    <string name="connected_devices_category_title">Connected Devices</string>
+
 </resources>
