@@ -11,4 +11,8 @@
     <string name="battery_stats_message">Battery history stats are going to be reset</string>
     <string name="ok_string">Ok</string>
 
+    <!-- CustomSettings -->
+    <string name="custom_settings_title">#HarPalStylish</string>
+    <string name="custom_settings_summary">Style badalte raho</string>
+
 </resources>
