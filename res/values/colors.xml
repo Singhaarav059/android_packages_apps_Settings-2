@@ -148,4 +148,7 @@
     <color name="dialog_background">@*android:color/background_device_default_light</color>
 
     <color name="face_intro_outline">#ffdadce0</color>
+
+   <!--Generic Circle for Horn's dashboard logo-->
+   <color name="homepage_horns_background">#9E9E9E</color>
 </resources>
