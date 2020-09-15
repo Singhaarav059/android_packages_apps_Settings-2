@@ -64,7 +64,7 @@ public class RecentLocationAccessPreferenceController extends AbstractPreference
 
     @Override
     public boolean isAvailable() {
-        return false;
+        return true;
     }
 
     @Override
