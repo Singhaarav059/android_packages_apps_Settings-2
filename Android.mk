@@ -36,7 +36,8 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     com.google.android.material_material \
     setupcompat \
     setupdesign \
-    airbnb-lottie
+    airbnb-lottie \
+    VendorSupport-preference
 
 LOCAL_JAVA_LIBRARIES := \
     telephony-common \
